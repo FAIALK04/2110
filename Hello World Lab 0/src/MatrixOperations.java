@@ -24,6 +24,9 @@
                     System.out.print(matrix[col][row] + " ");
                 }
                 System.out.println();
+                System.out.println();
+                System.out.println();
+                System.out.println();
             }
         }
     }
